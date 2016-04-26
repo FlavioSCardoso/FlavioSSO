@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.AppTests\bin\Debug\Crossover.Candidates.Flavio.Security.Core.AppTests.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.AppTests\bin\Debug\Crossover.Candidates.Flavio.Security.Core.AppTests.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.AppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.AppTests\obj\Debug\Crossover.Candidates.Flavio.Security.Core.AppTests.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.AppTests\obj\Debug\Crossover.Candidates.Flavio.Security.Core.AppTests.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.AppTests\obj\Debug\Crossover.Candidates.Flavio.Security.Core.AppTests.pdb

@@ -1,0 +1,32 @@
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\DomainValidation.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.pdb
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.pdb
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.pdb
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\DomainValidation.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Crossover.Candidates.Flavio\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.pdb
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.dll
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.pdb
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\DomainValidation.dll
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.dll
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.pdb
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.dll
+D:\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.pdb
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.Tests.pdb
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\DomainValidation.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\bin\Debug\Flavio.SSO.Core.Domain.pdb
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\tests\Flavio.SSO.Core.Domain.Tests\obj\Debug\Flavio.SSO.Core.Domain.Tests.pdb

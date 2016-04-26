@@ -1,0 +1,11 @@
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\Crossover.Candidates.Flavio.Security.Core.LDAPTest.dll.config
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\Crossover.Candidates.Flavio.Security.Core.LDAPTest.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\Crossover.Candidates.Flavio.Security.Core.LDAPTest.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\Crossover.Candidates.Flavio.Security.Core.LDAP.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\Crossover.Candidates.Flavio.Security.Core.LDAP.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\obj\Debug\Crossover.Candidates.Flavio.Security.Core.LDAPTest.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\obj\Debug\Crossover.Candidates.Flavio.Security.Core.LDAPTest.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\obj\Debug\Crossover.Candidates.Flavio.Security.Core.LDAPTest.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\DomainValidation.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\tests\Crossover.Candidates.Flavio.Security.Core.LDAPTest\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.pdb

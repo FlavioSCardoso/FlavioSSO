@@ -1,0 +1,14 @@
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Application.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Application.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\AutoMapper.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Data.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\EntityFramework.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\DomainValidation.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Data.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\AutoMapper.xml
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\bin\Debug\EntityFramework.xml
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\obj\Debug\Crossover.Candidates.Flavio.Security.Core.Application.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\obj\Debug\Crossover.Candidates.Flavio.Security.Core.Application.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Application\obj\Debug\Crossover.Candidates.Flavio.Security.Core.Application.pdb

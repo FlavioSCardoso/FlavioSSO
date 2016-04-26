@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<appSettings>
+	<add key="Domain" value="flavio.local" />
+	<add key="DomainUserName" value="flavio"/>
+	<add key="DomainUserPassword" value="HuaHua3!"/>
+	<add key="DomainUserGroupCount" value="6"/>
+	<add key="SSO-ServiceUrl" value="http://localhost:49993/UserService.svc"/>
+	<add key="SSO-LoginUrl" value="http://localhost:52346/"/>
+	<add key="SSO-LogoutUrl" value="http://localhost:52346/Logout"/>
+	<add key="SSO-CookieName" value="SSO.User.Token"/>
+</appSettings>

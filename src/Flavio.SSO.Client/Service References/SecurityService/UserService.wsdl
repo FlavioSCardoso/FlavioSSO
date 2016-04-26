@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="UserService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:49993/UserService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:49993/UserService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:49993/UserService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Flavio.SSO.Core.Application.ViewModels" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IUserService_AuthenticatedUserIsValid_InputMessage">
+    <wsdl:part name="parameters" element="tns:AuthenticatedUserIsValid" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_AuthenticatedUserIsValid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AuthenticatedUserIsValidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_AuthenticateUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:AuthenticateUser" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_AuthenticateUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AuthenticateUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_GetAuthenticateUserByToken_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAuthenticateUserByToken" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_GetAuthenticateUserByToken_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAuthenticateUserByTokenResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_LogOffUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:LogOffUser" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_LogOffUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LogOffUserResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IUserService">
+    <wsdl:operation name="AuthenticatedUserIsValid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/AuthenticatedUserIsValid" message="tns:IUserService_AuthenticatedUserIsValid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/AuthenticatedUserIsValidResponse" message="tns:IUserService_AuthenticatedUserIsValid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AuthenticateUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/AuthenticateUser" message="tns:IUserService_AuthenticateUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/AuthenticateUserResponse" message="tns:IUserService_AuthenticateUser_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthenticateUserByToken">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/GetAuthenticateUserByToken" message="tns:IUserService_GetAuthenticateUserByToken_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/GetAuthenticateUserByTokenResponse" message="tns:IUserService_GetAuthenticateUserByToken_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LogOffUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/LogOffUser" message="tns:IUserService_LogOffUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/LogOffUserResponse" message="tns:IUserService_LogOffUser_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IUserService" type="tns:IUserService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AuthenticatedUserIsValid">
+      <soap:operation soapAction="http://tempuri.org/IUserService/AuthenticatedUserIsValid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AuthenticateUser">
+      <soap:operation soapAction="http://tempuri.org/IUserService/AuthenticateUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthenticateUserByToken">
+      <soap:operation soapAction="http://tempuri.org/IUserService/GetAuthenticateUserByToken" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogOffUser">
+      <soap:operation soapAction="http://tempuri.org/IUserService/LogOffUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UserService">
+    <wsdl:port name="BasicHttpBinding_IUserService" binding="tns:BasicHttpBinding_IUserService">
+      <soap:address location="http://localhost:49993/UserService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

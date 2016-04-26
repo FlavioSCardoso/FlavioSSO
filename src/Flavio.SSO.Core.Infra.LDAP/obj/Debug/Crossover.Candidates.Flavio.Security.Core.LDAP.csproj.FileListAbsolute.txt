@@ -1,0 +1,8 @@
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\bin\Debug\Crossover.Candidates.Flavio.Security.Core.LDAP.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\bin\Debug\Crossover.Candidates.Flavio.Security.Core.LDAP.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\obj\Debug\Crossover.Candidates.Flavio.Security.Core.LDAP.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\obj\Debug\Crossover.Candidates.Flavio.Security.Core.LDAP.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\obj\Debug\Crossover.Candidates.Flavio.Security.Core.LDAP.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\bin\Debug\DomainValidation.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.LDAP\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.pdb

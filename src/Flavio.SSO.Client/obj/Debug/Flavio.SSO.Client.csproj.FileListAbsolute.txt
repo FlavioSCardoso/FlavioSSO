@@ -1,0 +1,12 @@
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\bin\Debug\Flavio.SSO.Client.dll.config
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\bin\Debug\Flavio.SSO.Client.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\bin\Debug\Flavio.SSO.Client.pdb
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\obj\Debug\Flavio.SSO.Client.csprojResolveAssemblyReference.cache
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\obj\Debug\Flavio.SSO.Client.dll
+C:\Users\flavio\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\obj\Debug\Flavio.SSO.Client.pdb
+D:\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\bin\Debug\Flavio.SSO.Client.dll.config
+D:\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\bin\Debug\Flavio.SSO.Client.dll
+D:\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\bin\Debug\Flavio.SSO.Client.pdb
+D:\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\obj\Debug\Flavio.SSO.Client.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\obj\Debug\Flavio.SSO.Client.dll
+D:\OneDrive\Documentos\VS\Flavio.SSO\src\Flavio.SSO.Client\obj\Debug\Flavio.SSO.Client.pdb

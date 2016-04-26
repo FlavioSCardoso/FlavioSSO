@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Model\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Model\bin\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Model\obj\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Model\obj\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.dll
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Model\obj\Debug\Crossover.Candidates.Flavio.Security.Core.Domain.pdb
+D:\Documentos\Visual Studio 2015\Projects\Crossover.Candidates.Flavio\src\Crossover.Candidates.Flavio.Security.Core.Model\bin\Debug\DomainValidation.dll
