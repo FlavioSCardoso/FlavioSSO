@@ -12,6 +12,9 @@ namespace Flavio.SSO.Core.Infra.LDAPTests
 	public class UserAuthenticationTests
 	{
 
+
+		//Integration Tests
+
 		[TestMethod]
 		public void ShouldGetUserWithUsernameAndPassword()
 		{

@@ -12,27 +12,43 @@ using Flavio.SSO.Core.Application.AutoMapper;
 using System.Collections.Generic;
 using Flavio.SSO.Core.Domain.Entities;
 using System.Linq.Expressions;
+using Moq;
 
 namespace Flavio.SSO.Core.Application.Tests
 {
 	[TestClass()]
 	public class UserManagerTests
 	{
-		private readonly IUserAuthentication _authenticator;
-		private readonly IUserRepository _userRepository;
-		private readonly IGroupRepository _groupRepository;
-		private readonly IUnitOfWork _uow;
-		private readonly IUserManager _userManager;
-		private readonly MockContext _context;
-		private readonly string _userName;
-		private readonly string _userPassword;
-		private readonly int _userGroupsCount;
+		private IUserAuthentication _authenticator;
+		private IUserRepository _userRepository;
+		private IGroupRepository _groupRepository;
+		private IUnitOfWork _uow;
+		private IUserManager _userManager;
+		private MockContext _context;
+		private string _userName;
+		private string _userPassword;
+		private int _userGroupsCount;
 
-		public UserManagerTests()
+		private User _atemptedUser;
+
+		[TestInitialize()]
+		public void InitializeTests()
 		{
 			_userName = "UserName"; // System.Configuration.ConfigurationManager.AppSettings["DomainUserName"];
 			_userPassword = "pakepwd"; // System.Configuration.ConfigurationManager.AppSettings["DomainUserPassword"];
 			_userGroupsCount = 3; // Convert.ToInt32(System.Configuration.ConfigurationManager.AppSettings["DomainUserGroupCount"]);
+
+			_atemptedUser = new User
+			{
+				Id = new Guid("5515a01a-e005-4e09-a954-a6788a7479f2"),
+				Name = "Teste",
+				Username = "UserName",
+				Groups = {
+						new Group() { Id = new Guid("646e3a48-444e-4ad1-9cc2-a9e2aeaa59c7"), Name = "Test Group"},
+						new Group() { Id = new Guid("992ee407-2bc5-4ec7-bd50-49e0505f8f9d"), Name = "Test Group 2" },
+						new Group() { Id = new Guid("adbd8149-430a-4f5e-b8bf-f2d5f04b0646"), Name = "Test Group 3"},
+					}
+			};
 
 			using (CoreContext removeContext = new CoreContext())
 			{
@@ -44,10 +60,24 @@ namespace Flavio.SSO.Core.Application.Tests
 				}
 			}
 
+			var mockUserAuthentication = new Mock<IUserAuthentication>();
+			mockUserAuthentication.Setup(u => u.GetAuthenticatedUser(It.IsAny<string>(), It.IsAny<string>())).Returns(_atemptedUser);
+
+
+			var mockUserRepository = new Mock<IUserRepository>();
+			mockUserRepository.Setup(u => u.SearchById(It.IsAny<Guid>())).Returns(_atemptedUser);
+			mockUserRepository.Setup(u => u.SearchByToken(It.IsAny<string>())).Returns(_atemptedUser);
+			mockUserRepository.Setup(u => u.Remove(It.IsAny<Guid>()));
+
+			var mockGroupRepository = new Mock<IGroupRepository>();
+			mockGroupRepository.Setup(g => g.GetGroupsById(It.IsAny<ICollection<Guid>>())).Returns(_atemptedUser.Groups);
+
+
+
 			_context = new MockContext();
-			_authenticator = new MockUserAuthentication();
-			_userRepository = new MockUserRepository(_context);
-			_groupRepository = new MockGroupRepository(_context);
+			_authenticator = mockUserAuthentication.Object;
+			_userRepository = mockUserRepository.Object;
+			_groupRepository = mockGroupRepository.Object;
 			_uow = new UnitOfWork(new CoreContext());
 			_userManager = new UserManager(_authenticator, _userRepository, _uow, _groupRepository);
 

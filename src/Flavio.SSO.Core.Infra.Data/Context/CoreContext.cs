@@ -19,8 +19,8 @@ namespace Flavio.SSO.Core.Infra.Data.Context
 #endif
 		}
 
-		public DbSet<User> Users { get; set; }
-		public DbSet<Group> Groups { get; set; }
+		public virtual DbSet<User> Users { get; set; }
+		public virtual DbSet<Group> Groups { get; set; }
 
 		protected override void OnModelCreating(DbModelBuilder modelBuilder)
 		{
